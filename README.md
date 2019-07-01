@@ -1,2 +1,2 @@
 # kaggle_mercari
-Mercari Price Suggestion Challenge
+Mercari Price Suggestion Challenge (Python)
